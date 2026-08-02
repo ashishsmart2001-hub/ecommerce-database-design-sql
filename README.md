@@ -69,4 +69,11 @@ table design, constraints, relationships, and data analysis queries.
 ## 📌 Notes
 - `order` is a MySQL reserved keyword, so it is always referenced using
   backticks: `` `order` ``.
+
+## 👨‍💻 Author
+
+**Ashish Kumar**
+
+- GitHub: https://github.com/ashishsmart2001-hub
 - Tested on MySQL 8.x.
+- 
